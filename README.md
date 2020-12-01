@@ -1,3 +1,3 @@
 # challengec
 project
-read me @
+read me @ https://tosinyusuf.github.io/challengec/.
